@@ -7,7 +7,7 @@ This code is for the game jailbird on roblox, this lua is confirmed advantage fo
 Copy and paste this line:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shermanace25-collab/YOURREPO/main/explore.lua"))()
 ```
 
 ## Features
@@ -17,6 +17,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURNAME/YOURREPO/mai
 - visualchecker
 
 ## Notes
+
+- Updates will come to this
 
 ## Credits
 
